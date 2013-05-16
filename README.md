@@ -1,7 +1,7 @@
 Sinatra Classic Template
 ========================
 
-This is a template for a basic Sinaatra Classic application. It uses Bundler to manage dependencies and ERB for views.
+This is a template for a basic Sinatra Classic application. It uses Bundler to manage dependencies and ERB for views.
 
 The template includes a blank "style.css" stylesheet to include application-specific CSS and includes jQuery from the Google CDN.
 
